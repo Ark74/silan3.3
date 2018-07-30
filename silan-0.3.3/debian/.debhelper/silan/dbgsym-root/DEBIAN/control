@@ -1,0 +1,12 @@
+Package: silan-dbgsym
+Package-Type: ddeb
+Version: 0.3.3-1
+Architecture: amd64
+Maintainer: Kyle Robbertze <krobbertze@gmail.com>
+Installed-Size: 80
+Depends: silan (= 0.3.3-1)
+Section: debug
+Priority: extra
+Description: Debug symbols for silan
+Auto-Built-Package: debug-symbols
+Build-Ids: a3ea138381bc312867c365c4e18760d5212dfa5f

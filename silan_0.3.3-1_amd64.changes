@@ -8,10 +8,10 @@ Distribution: unstable
 Urgency: medium
 Maintainer: Kyle Robbertze <krobbertze@gmail.com>
 Changed-By: Kyle Robbertze <krobbertze@gmail.com>
-Description:
+Description: 
  silan      - commandline tool to detect silence in audio-files
 Closes: 815492 855319
-Changes:
+Changes: 
  silan (0.3.3-1) unstable; urgency=medium
  .
    * New maintainer (Closes: #815492)
@@ -21,9 +21,9 @@ Changes:
    * debian/control: bump to Standards-Version 4.0.0
    * debian/compat: bump to version 10
    * debian/rules: use hardening flags
-Checksums-Sha1:
- 7ad14dadb69ad3f92fdd6c2f59dd84bab781cb8e 15662 silan_0.3.3-1_amd64.deb
-Checksums-Sha256:
- ea50d3e9b206904cc6256c660e01eec262b22c016fa0ce0ef9ceb80ce34dcabd 15662 silan_0.3.3-1_amd64.deb
-Files:
- b904359386113f15a4d0f6ee26acfa85 15662 sound optional silan_0.3.3-1_amd64.deb
+Checksums-Sha1: 
+ 7748cceda8eaead39bf60c9aa493d91fdaa30cc4 15442 silan_0.3.3-1_amd64.deb
+Checksums-Sha256: 
+ 95436343ab4e9c2801bb6d94a00ef2bb1ba1a9ce20ce5a586516b03f400d5ef0 15442 silan_0.3.3-1_amd64.deb
+Files: 
+ 877b062cf572e2f6bb5be5891e6fbd73 15442 sound optional silan_0.3.3-1_amd64.deb
