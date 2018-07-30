@@ -1,0 +1,43 @@
+silan (0.3.3-1) unstable; urgency=medium
+
+  * New maintainer (Closes: #815492)
+  * Bump 0.3.3 (Closes: #855319)
+  * debian/watch: Update from deprecated githubredir server.
+  * debian/patches: Removed due to being in upstream.
+  * debian/control: bump to Standards-Version 4.0.0
+  * debian/compat: bump to version 10
+  * debian/rules: use hardening flags
+
+ -- Kyle Robbertze <krobbertze@gmail.com>  Thu, 03 Aug 2017 10:45:23 -0400
+
+silan (0.3.2-3) unstable; urgency=medium
+
+  * QA upload.
+  * Orphaning.
+
+ -- Alessio Treglia <alessio@debian.org>  Sun, 21 Feb 2016 21:49:47 +0000
+
+silan (0.3.2-2) unstable; urgency=medium
+
+  * Team upload
+  * debian/patches/libav10.patch: Add upstream patch to fix FTBFS with libav
+    10. (Closes: #739326)
+  * debian/control: Bump Standards-Version, no changes required.
+
+ -- Sebastian Ramacher <sramacher@debian.org>  Mon, 24 Feb 2014 17:51:34 +0100
+
+silan (0.3.2-1) unstable; urgency=low
+
+  * New upstream release.
+  * Add watch file.
+  * Switch compression to gzip.
+  * Update copyright holders information.
+  * Fix VCS URLs.
+
+ -- Alessio Treglia <alessio@debian.org>  Wed, 09 Oct 2013 13:54:55 +0100
+
+silan (0.2.0+20121230.gitb1d80bcc8d-1) unstable; urgency=low
+
+  * Initial release. (Closes: #696977)
+
+ -- Alessio Treglia <alessio@debian.org>  Sun, 30 Dec 2012 19:26:00 +0000
